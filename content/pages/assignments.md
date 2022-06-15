@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides instructions on how to make theory-framing and
+  prediction-inferring memos. It also lists the various instructions and options for
+  the two paper assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
