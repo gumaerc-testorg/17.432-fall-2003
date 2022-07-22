@@ -1,10 +1,13 @@
 ---
 content_type: page
+description: This section provides an extensive list of readings for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 4773f65c-370a-c051-f250-051ec901a406
 ---
 
-In addition to the bibliography of related readings below, also see the readings section for the required [readings by class session]({{< baseurl >}}/pages/readings#class_session).
+In addition to the bibliography of related readings below, also see the readings section for the required {{% resource_link 4620b818-dd0c-385e-f980-7cb9d04d3ba2 "readings by class session" "#class_session" %}}.
 
 General and Theoretical Works
 -----------------------------
